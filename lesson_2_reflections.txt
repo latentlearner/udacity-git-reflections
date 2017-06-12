@@ -15,3 +15,8 @@ How can you use the staging area to make sure you have one commit per logical ch
 How do diagrams help you visualize branch structure?
 	Diagrams help by giving a snapshot of all the branches in the repo. We can see the relationships and sometimes work out the logical reasons these branches were created.
 	Understanding the parallel development branches helps with understanding the structure and changes over time.
+
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+	Pros include automation and saving a lot of time for trivial commits.
+	Cons might include, losing context, getting wrong non-working code, takes a lot of time to figure out all the conflicts.
+	
